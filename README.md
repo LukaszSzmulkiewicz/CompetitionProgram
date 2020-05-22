@@ -1,6 +1,6 @@
 SkillsCompetition
 
-Java application to record the competition team results and display of the final ranking.
+Java application to record and display the competition team results.
 
 What I Learned
 
