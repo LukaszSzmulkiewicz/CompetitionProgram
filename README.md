@@ -4,7 +4,7 @@ Java application to record the competition team results and display of the final
 
 What I Learned
 
-Investigate object oriented programming techniques and apply them to a design. 
+Object oriented programming techniques and design. 
 Knowledge and/or Skills 
 ♦ Object oriented concepts and terms 
 ♦ Object oriented programming techniques 
@@ -18,7 +18,7 @@ Knowledge and/or Skills
 ♦ Aggregation and collection 
 ♦ Coupling and cohesion 
 
-Implement a solution from an object oriented design using object oriented techniques. 
+Solution from an object oriented design using object oriented techniques. 
 Knowledge and/or Skills 
 ♦ Declaring and initialising variables 
 ♦ Using operators 
