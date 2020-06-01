@@ -1,11 +1,11 @@
-SkillsCompetition
+Competition
 
 Java application to record and display the competition team results.
 
 What I Learned
 
 Object oriented programming techniques and design. 
-Knowledge and/or Skills 
+Knowledge and/or Skills:
 ♦ Object oriented concepts and terms 
 ♦ Object oriented programming techniques 
 ♦ Objects and classes 
@@ -19,7 +19,7 @@ Knowledge and/or Skills
 ♦ Coupling and cohesion 
 
 Solution from an object oriented design using object oriented techniques. 
-Knowledge and/or Skills 
+Knowledge and/or Skills:
 ♦ Declaring and initialising variables 
 ♦ Using operators 
 ♦ Implementing control structures 
